@@ -34,6 +34,5 @@ print(hos1.doctors)
 print(hos1.patients)
 hos1.resgin_doctor("dr pk")
 hos1.patient_fine("patient 002")
-
 print(hos1.doctors)
 print(hos1.patients)
