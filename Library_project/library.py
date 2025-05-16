@@ -3,7 +3,7 @@ class Library:
         self.book = book_name
         self.author = author_name
         self.date = book_date
-        self.books = [book_name]  # Add initial book to the list
+        self.books = [book_name] 
     
     def new_book(self, new_book):
         self.books.append(new_book)
